@@ -1,5 +1,5 @@
 {
-  "name": "my-ts-library",
+  "name": "calculadora-lib",
   "version": "0.1.0",
   "description": "My TypeScript Library",
   "main": "dist/index.js",
@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filipeabmoura/calculadora-ts.git"
+    "url": "git+https://github.com/filipeabmoura/calculadora-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/filipeabmoura/calculadora-ts/issues"
+    "url": "https://github.com/filipeabmoura/calculadora-lib/issues"
   },
-  "homepage": "https://github.com/filipeabmoura/calculadora-ts#readme",
+  "homepage": "https://github.com/filipeabmoura/calculadora-lib#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.17.0",
     "@typescript-eslint/parser": "^8.17.0",
