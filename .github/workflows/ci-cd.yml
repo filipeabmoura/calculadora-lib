@@ -47,7 +47,10 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 18
-
+    
+    - name: Fix permissions for tsup
+      run: chmod +x ./node_modules/.bin/tsup
+      
     - name: Install dependencies
       run: npm install
 
